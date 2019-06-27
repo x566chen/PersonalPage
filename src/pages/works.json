@@ -1,0 +1,50 @@
+
+{
+    "code":200,
+    "msg": "请求成功!",
+    "data": [
+        {
+            "title":"Recognizing and Expressing Affect",
+            "brief":"Explore classification methods on human facial expression dataset",
+            "tags":[ "Matlab","KNN classifier"],
+            "cover":"https://cdn.pixabay.com/photo/2017/01/10/03/54/icon-1968248_960_720.png",
+            "id":1
+        },
+        {
+            "title":"Web Develop",
+            "brief":"Design some pages like login pages and to-do list",
+            "tags":[ "HTML","CSS","ajax","JavaScript" ],
+            "cover":"https://cdn.pixabay.com/photo/2017/01/10/03/54/icon-1968248_960_720.png",
+            "id":2
+        },
+        {
+            "title":"Vertex Cover Problem",
+            "brief":"Write a program to calculate the minimum VERTEX COVER problem",
+            "tags":[ "Python","C++","IPC","CNF-SAT" ],
+            "cover":"https://cdn.pixabay.com/photo/2017/01/10/03/54/icon-1968248_960_720.png",
+            "id":3
+        },
+        {
+            "title":"Data Analysis",
+            "brief":"Use Python and clustering algorithms to analyze data from Yelp",
+            "tags":[ "Python","E-R diagram","Clustering algorithms" ],
+            "cover":"https://cdn.pixabay.com/photo/2017/01/10/03/54/icon-1968248_960_720.png",
+            "id":4
+        },
+        {
+            "title":"Social Media Content & Product Information Solution",
+            "brief":"Discover tools for members from IT department",
+            "tags":[ "Reports","Communication","DokuWiki" ],
+            "cover":"https://cdn.pixabay.com/photo/2017/01/10/03/54/icon-1968248_960_720.png",
+            "id":5
+        },
+        {
+            "title":"Rainfall Forecast Analysis in Toronto",
+            "brief":"Use different time series models to analyze the rainfall in Toronto and forecast it",
+            "tags":[ "AR model", "MA model","ARIMA model","Python","Time Series" ],
+            "cover":"https://cdn.pixabay.com/photo/2017/01/10/03/54/icon-1968248_960_720.png",
+            "id":6
+        }
+
+    ]
+}
